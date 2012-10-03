@@ -18,25 +18,32 @@ include_once "inc/header.html";
           <div class="flexslider span6">
             <ul class="slides">
             <li>
-              <img src="img/graphic/alchemy.jpg" alt="xxxx">
+              <img src="img/graphic/alchemy.jpg" alt="alchemy">
+              <p class="flex-caption">Alchemy</p>
             </li>
             <li>
-              <img src="img/graphic/closeness.jpg" alt="xxxx">
+              <img src="img/graphic/closeness.jpg" alt="closeness">
+              <p class="flex-caption">Closeness</p>
             </li>
             <li>
-              <img src="img/graphic/connections1.jpg" alt="xxxx">
+              <img src="img/graphic/connections1.jpg" alt="connections1">
+              <p class="flex-caption">Connections</p>
             </li>
             <li>
-              <img src="img/graphic/connections2.jpg" alt="xxxx">
+              <img src="img/graphic/connections2.jpg" alt="connections2">
+              <p class="flex-caption">Connections</p>
             </li>
             <li>
-              <img src="img/graphic/funky.jpg" alt="xxxx">
+              <img src="img/graphic/funky.jpg" alt="funky">
+              <p class="flex-caption">Funky</p>
             </li>
             <li>
-              <img src="img/graphic/mystery.jpg" alt="xxxx">
+              <img src="img/graphic/mystery.jpg" alt="mystery">
+              <p class="flex-caption">Mystery</p>
             </li>
             <li>
-              <img src="img/graphic/urban.jpg" alt="xxxx">
+              <img src="img/graphic/urban.jpg" alt="urban">
+              <p class="flex-caption">Urban</p>
             </li>
           </ul>
 
