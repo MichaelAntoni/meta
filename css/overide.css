@@ -25,6 +25,7 @@
 
 body {
     padding-top: 60px; /* container -topbar */
+    font-family: Arial, sans-serif;
   }
 
 .page-header {
@@ -57,3 +58,23 @@ body {
 
 
 footer ul li {list-style: none;}
+
+
+
+/*FlexSlider*/
+
+.slides li p {
+  /*color: green;*/
+  text-align: center;
+  font-weight: bold;
+  border-top: solid 1px #E8E8E8;
+  width: 90%;
+  margin: .5em auto 0;
+  padding: .5em 0; 
+
+}
+
+
+
+
+
