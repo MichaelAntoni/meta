@@ -9,7 +9,7 @@ include_once "inc/header.html";
   <div class="span9">
     <section id="thumbnails">
       
-      h2>Web Design &amp; Development Packages</h2>
+      <h2>Web Design &amp; Development Packages</h2>
 
       <div class="row-fluid">
         
